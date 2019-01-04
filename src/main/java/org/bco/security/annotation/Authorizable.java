@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package org.bco.security;
+package org.bco.security.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
